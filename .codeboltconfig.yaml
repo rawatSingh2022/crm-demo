@@ -1,9 +1,9 @@
-appName: idurar-erp-crm/ravis
+appName: idurar-erp-crm
 appUniqueId: ravis/idurar-erp-crm
 appInfo:
   description: this is crm app
   appVersion: 1.0.0
-  appRepoUrl: ''
+  appRepoUrl: https://github.com/rawatSingh2022/crm-demo.git
   appIconUrl: ''
   appAuthorUserId: ravis
   forkedFrom: ''
@@ -24,14 +24,26 @@ usage:
     agents: []
     layout: ''
     run:
+      - shell:
+          command: cd backend && npm start
+      - shell:
+          command: cd frontend && npm run dev
   install:
-    steps: []
+    steps:
+      - command:
+          type: shell
+          description: install backend packages
+          command: cd backend && npm install
+      - command:
+          type: shell
+          description: install frontend packages
+          command: cd frontend && npm install
     customInstallationAgent:
       agent: ''
       enabled: false
   appUse:
     agents: []
     layout: ''
-    prerunsteps:
+    prerunsteps: null
     appPreview:
       type: ''
