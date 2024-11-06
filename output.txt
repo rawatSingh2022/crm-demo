@@ -1,0 +1,1320 @@
+cd backend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { npm: [32m'10.2.4'[39m, node: [32m'20.9.0'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K
+up to date, audited 505 packages in 2s
+[1G[0K⠦[1G[0K
+[1G[0K⠦[1G[0K52 packages are looking for funding
+[1G[0K⠦[1G[0K  run `npm fund` for details
+[1G[0K⠦[1G[0K
+[31m[1m16[22m[39m vulnerabilities (2 [1mlow[22m, 7 [33m[1mmoderate[22m[39m, 7 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+[1G[0K⠦[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { node: [32m'20.9.0'[39m, npm: [32m'10.2.4'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K
+up to date, audited 385 packages in 984ms
+[1G[0K⠋[1G[0K
+[1G[0K⠋[1G[0K105 packages are looking for funding
+[1G[0K⠋[1G[0K  run `npm fund` for details
+[1G[0K⠋[1G[0K
+[31m[1m6[22m[39m vulnerabilities (3 [33m[1mmoderate[22m[39m, 3 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠋[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FA ILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 setup
+> node src/setup/setup.js
+
+[1G[0K👍 Admin created : Done!
+👍 Settings created : Done!
+👍 Taxes created : Done!
+👍 PaymentMode created : Done!
+🥳 Setup completed :Success!
+[1G[0K⠙[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 dev
+> vite
+
+[1G[0K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v5.4.8[39m  [2mready in [0m[1m133[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 dev
+> nodemon src/server.js --ignore public/
+
+[1G[0K[33m[nodemon] 3.0.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Express running → On PORT : 8888
+cd backend && npm install && npm run setup && echo COMMAND_SUCCESS ||  echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1G[0K⠙[1G[0K[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { npm: [32m'10.2.4'[39m, node: [32m'20.9.0'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K
+up to date, audited 505 packages in 822ms
+[1G[0K⠧[1G[0K
+[1G[0K⠧[1G[0K52 packages are looking for funding
+[1G[0K⠧[1G[0K  run `npm fund` for details
+[1G[0K⠧[1G[0K
+[31m[1m16[22m[39m vulnerabilities (2 [1mlow[22m, 7 [33m[1mmoderate[22m[39m, 7 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+[1G[0K⠧[1G[0K
+> idurar-erp-crm@4.1.0 setup
+> node src/setup/setup.js
+
+[1G[0K👍 Admin created : Done!
+👍 Settings created : Done!
+👍 Taxes created : Done!
+👍 PaymentMode created : Done!
+🥳 Setup completed :Success!
+[1G[0K⠙[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 dev
+> nodemon src/server.js --ignore public/
+
+[1G[0K[33m[nodemon] 3.0.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Express running → On PORT : 8888
+cd frontend && npm install && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm install && npm run dev && echo COMMAND_SUCCESS || e cho COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { node: [32m'20.9.0'[39m, npm: [32m'10.2.4'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K
+up to date, audited 385 packages in 819ms
+[1G[0K⠧[1G[0K
+[1G[0K⠧[1G[0K105 packages are looking for funding
+[1G[0K⠧[1G[0K  run `npm fund` for details
+[1G[0K⠧[1G[0K
+[31m[1m6[22m[39m vulnerabilities (3 [33m[1mmoderate[22m[39m, 3 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠧[1G[0K
+> idurar-erp-crm@4.1.0 dev
+> vite
+
+[1G[0K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v5.4.8[39m  [2mready in [0m[1m124[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+cd backend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { npm: [32m'10.2.4'[39m, node: [32m'20.9.0'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K
+up to date, audited 505 packages in 2m
+[1G[0K⠹[1G[0K
+[1G[0K⠹[1G[0K52 packages are looking for funding
+[1G[0K⠹[1G[0K  run `npm fund` for details
+[1G[0K⠹[1G[0K
+[31m[1m16[22m[39m vulnerabilities (2 [1mlow[22m, 7 [33m[1mmoderate[22m[39m, 7 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+[1G[0K⠹[1G[0KCOMMAND_SUCCESS
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { node: [32m'20.9.0'[39m, npm: [32m'10.2.4'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K
+up to date, audited 385 packages in 19s
+[1G[0K⠏[1G[0K
+[1G[0K⠏[1G[0K105 packages are looking for funding
+[1G[0K⠏[1G[0K  run `npm fund` for details
+[1G[0K⠏[1G[0K
+[31m[1m6[22m[39m vulnerabilities (3 [33m[1mmoderate[22m[39m, 3 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠏[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FA ILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 setup
+> node src/setup/setup.js
+
+[1G[0K👍 Admin created : Done!
+👍 Settings created : Done!
+👍 Taxes created : Done!
+👍 PaymentMode created : Done!
+🥳 Setup completed :Success!
+[1G[0K⠙[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 dev
+> nodemon src/server.js --ignore public/
+
+[1G[0K[33m[nodemon] 3.0.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Express running → On PORT : 8888
+^C
+COMMAND_FAILURE
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1G[0K⠙[1G[0K⠙[1G[0K[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { node: [32m'20.9.0'[39m, npm: [32m'10.2.4'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { npm: [32m'10.2.4'[39m, node: [32m'20.9.0'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠹[1G[0K⠹[1G[0K⠸[1G[0K⠸[1G[0K⠼[1G[0K⠼[1G[0K⠴[1G[0K⠴[1G[0K⠦[1G[0K⠦[1G[0K⠧[1G[0K⠧[1G[0K⠇[1G[0K⠇[1G[0K⠏[1G[0K⠏[1G[0K⠋[1G[0K⠋[1G[0K⠙[1G[0K⠙[1G[0K⠹[1G[0K⠹[1G[0K⠸[1G[0K
+up to date, audited 385 packages in 1s
+[1G[0K⠹[1G[0K
+[1G[0K⠹[1G[0K105 packages are looking for funding
+[1G[0K⠹[1G[0K  run `npm fund` for details
+[1G[0K⠹[1G[0K
+[31m[1m6[22m[39m vulnerabilities (3 [33m[1mmoderate[22m[39m, 3 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠹[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ [1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K
+up to date, audited 505 packages in 2s
+[1G[0K⠸[1G[0K
+[1G[0K⠸[1G[0K52 packages are looking for funding
+[1G[0K⠸[1G[0K  run `npm fund` for details
+[1G[0K⠸[1G[0K
+[31m[1m16[22m[39m vulnerabilities (2 [1mlow[22m, 7 [33m[1mmoderate[22m[39m, 7 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+[1G[0K⠼[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FA ILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+bash-3.2$ cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 dev
+> vite
+
+[1G[0K
+> idurar-erp-crm@4.1.0 setup
+> node src/setup/setup.js
+
+[1G[0K
+> idurar-erp-crm@4.1.0 dev
+> nodemon src/server.js --ignore public/
+
+[1G[0K[33m[nodemon] 3.0.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v5.4.8[39m  [2mready in [0m[1m162[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+Express running → On PORT : 8888
+👍 Admin created : Done!
+👍 Settings created : Done!
+👍 Taxes created : Done!
+👍 PaymentMode created : Done!
+🥳 Setup completed :Success!
+[1G[0K⠙[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ bash-3.2$ cd backend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { node: [32m'20.9.0'[39m, npm: [32m'10.2.4'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { npm: [32m'10.2.4'[39m, node: [32m'20.9.0'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠹[1G[0K⠼[1G[0K⠸[1G[0K⠴[1G[0K⠼[1G[0K⠦[1G[0K⠴[1G[0K⠧[1G[0K⠦[1G[0K
+up to date, audited 385 packages in 849ms
+[1G[0K⠧[1G[0K
+[1G[0K⠧[1G[0K105 packages are looking for funding
+[1G[0K⠧[1G[0K  run `npm fund` for details
+[1G[0K⠧[1G[0K
+[31m[1m6[22m[39m vulnerabilities (3 [33m[1mmoderate[22m[39m, 3 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠧[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ [1G[0K⠧[1G[0K
+up to date, audited 505 packages in 895ms
+[1G[0K⠧[1G[0K
+[1G[0K⠧[1G[0K52 packages are looking for funding
+[1G[0K⠧[1G[0K  run `npm fund` for details
+[1G[0K⠧[1G[0K
+[31m[1m16[22m[39m vulnerabilities (2 [1mlow[22m, 7 [33m[1mmoderate[22m[39m, 7 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+[1G[0K⠧[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FA ILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 setup
+> node src/setup/setup.js
+
+[1G[0K
+> idurar-erp-crm@4.1.0 dev
+> nodemon src/server.js --ignore public/
+
+[1G[0K
+> idurar-erp-crm@4.1.0 dev
+> vite
+
+[1G[0K[33m[nodemon] 3.0.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v5.4.8[39m  [2mready in [0m[1m165[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+👍 Admin created : Done!
+👍 Settings created : Done!
+👍 Taxes created : Done!
+👍 PaymentMode created : Done!
+🥳 Setup completed :Success!
+[1G[0K⠙[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ Express running → On PORT : 8888
+cd backend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+[1G[0K⠙[1G[0K[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { npm: [32m'10.2.4'[39m, node: [32m'20.9.0'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K
+up to date, audited 505 packages in 1s
+[1G[0K⠼[1G[0K
+[1G[0K⠼[1G[0K52 packages are looking for funding
+[1G[0K⠼[1G[0K  run `npm fund` for details
+[1G[0K⠼[1G[0K
+[31m[1m16[22m[39m vulnerabilities (2 [1mlow[22m, 7 [33m[1mmoderate[22m[39m, 7 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+[1G[0K⠼[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { node: [32m'20.9.0'[39m, npm: [32m'10.2.4'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K
+up to date, audited 385 packages in 700ms
+[1G[0K⠦[1G[0K
+[1G[0K⠦[1G[0K105 packages are looking for funding
+[1G[0K⠦[1G[0K  run `npm fund` for details
+[1G[0K⠦[1G[0K
+[31m[1m6[22m[39m vulnerabilities (3 [33m[1mmoderate[22m[39m, 3 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠧[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FA ILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 setup
+> node src/setup/setup.js
+
+[1G[0K
+> idurar-erp-crm@4.1.0 dev
+> nodemon src/server.js --ignore public/
+
+[1G[0K[33m[nodemon] 3.0.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+👍 Admin created : Done!
+👍 Settings created : Done!
+👍 Taxes created : Done!
+👍 PaymentMode created : Done!
+🥳 Setup completed :Success!
+[1G[0K⠙[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ Express running → On PORT : 8888
+cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 dev
+> vite
+
+[1G[0K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v5.4.8[39m  [2mready in [0m[1m131[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+cd backend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1G[0K⠙[1G[0K⠙[1G[0K[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { node: [32m'20.9.0'[39m, npm: [32m'10.2.4'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { npm: [32m'10.2.4'[39m, node: [32m'20.9.0'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠹[1G[0K⠹[1G[0K⠸[1G[0K⠸[1G[0K⠼[1G[0K⠼[1G[0K⠴[1G[0K⠴[1G[0K⠦[1G[0K⠦[1G[0K⠧[1G[0K⠧[1G[0K⠇[1G[0K⠇[1G[0K⠏[1G[0K⠏[1G[0K⠋[1G[0K⠋[1G[0K⠙[1G[0K⠙[1G[0K⠹[1G[0K⠹[1G[0K⠸[1G[0K⠸[1G[0K⠼[1G[0K⠼[1G[0K⠴[1G[0K⠴[1G[0K⠦[1G[0K⠦[1G[0K⠧[1G[0K⠧[1G[0K⠇[1G[0K⠇[1G[0K⠏[1G[0K⠏[1G[0K⠋[1G[0K⠋[1G[0K⠙[1G[0K⠙[1G[0K⠹[1G[0K⠹[1G[0K⠸[1G[0K⠸[1G[0K⠼[1G[0K
+up to date, audited 505 packages in 2s
+[1G[0K⠼[1G[0K
+[1G[0K⠼[1G[0K52 packages are looking for funding
+[1G[0K⠼[1G[0K  run `npm fund` for details
+[1G[0K⠼[1G[0K
+[31m[1m16[22m[39m vulnerabilities (2 [1mlow[22m, 7 [33m[1mmoderate[22m[39m, 7 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+[1G[0K⠼[1G[0K[1G[0K⠼COMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ [1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K
+up to date, audited 385 packages in 3s
+[1G[0K⠹[1G[0K
+[1G[0K⠹[1G[0K105 packages are looking for funding
+[1G[0K⠹[1G[0K  run `npm fund` for details
+[1G[0K⠹[1G[0K
+[31m[1m6[22m[39m vulnerabilities (3 [33m[1mmoderate[22m[39m, 3 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠹[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FA ILURE
+cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 setup
+> node src/setup/setup.js
+
+[1G[0K
+> idurar-erp-crm@4.1.0 dev
+> nodemon src/server.js --ignore public/
+
+[1G[0K
+> idurar-erp-crm@4.1.0 dev
+> vite
+
+[1G[0K[33m[nodemon] 3.0.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Express running → On PORT : 8888
+👍 Admin created : Done!
+👍 Settings created : Done!
+👍 Taxes created : Done!
+👍 PaymentMode created : Done!
+🥳 Setup completed :Success!
+[1G[0K⠙[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v5.4.8[39m  [2mready in [0m[1m5168[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+cd backend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { npm: [32m'10.2.4'[39m, node: [32m'20.9.0'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K
+up to date, audited 505 packages in 1s
+[1G[0K⠸[1G[0K
+[1G[0K⠸[1G[0K52 packages are looking for funding
+[1G[0K⠸[1G[0K  run `npm fund` for details
+[1G[0K⠸[1G[0K
+[31m[1m16[22m[39m vulnerabilities (2 [1mlow[22m, 7 [33m[1mmoderate[22m[39m, 7 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+[1G[0K⠸[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { node: [32m'20.9.0'[39m, npm: [32m'10.2.4'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K
+up to date, audited 385 packages in 2s
+[1G[0K⠹[1G[0K
+[1G[0K⠹[1G[0K105 packages are looking for funding
+[1G[0K⠹[1G[0K  run `npm fund` for details
+[1G[0K⠹[1G[0K
+[31m[1m6[22m[39m vulnerabilities (3 [33m[1mmoderate[22m[39m, 3 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠹[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm run setup && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd backend && npm run setup && npm run dev && echo COMMAND_SUCCESS ||  echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 setup
+> node src/setup/setup.js
+
+[1G[0K👍 Admin created : Done!
+👍 Settings created : Done!
+👍 Taxes created : Done!
+👍 PaymentMode created : Done!
+🥳 Setup completed :Success!
+[1G[0K⠙[1G[0K
+> idurar-erp-crm@4.1.0 dev
+> nodemon src/server.js --ignore public/
+
+[1G[0K[33m[nodemon] 3.0.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Express running → On PORT : 8888
+cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 dev
+> vite
+
+[1G[0K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v5.4.8[39m  [2mready in [0m[1m127[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+cd backend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { npm: [32m'10.2.4'[39m, node: [32m'20.9.0'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K
+up to date, audited 505 packages in 1s
+[1G[0K⠋[1G[0K
+[1G[0K⠋[1G[0K52 packages are looking for funding
+[1G[0K⠋[1G[0K  run `npm fund` for details
+[1G[0K⠋[1G[0K
+[31m[1m16[22m[39m vulnerabilities (2 [1mlow[22m, 7 [33m[1mmoderate[22m[39m, 7 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+[1G[0K⠋[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FA ILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 setup
+> node src/setup/setup.js
+
+[1G[0K👍 Admin created : Done!
+👍 Settings created : Done!
+👍 Taxes created : Done!
+👍 PaymentMode created : Done!
+🥳 Setup completed :Success!
+[1G[0K⠙[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 dev
+> nodemon src/server.js --ignore public/
+
+[1G[0K[33m[nodemon] 3.0.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Express running → On PORT : 8888
+cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { node: [32m'20.9.0'[39m, npm: [32m'10.2.4'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K
+up to date, audited 385 packages in 1s
+[1G[0K⠸[1G[0K
+[1G[0K⠸[1G[0K105 packages are looking for funding
+[1G[0K⠸[1G[0K  run `npm fund` for details
+[1G[0K⠸[1G[0K
+[31m[1m6[22m[39m vulnerabilities (3 [33m[1mmoderate[22m[39m, 3 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠸[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 dev
+> vite
+
+[1G[0K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v5.4.8[39m  [2mready in [0m[1m109[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+cd backend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { npm: [32m'10.2.4'[39m, node: [32m'20.9.0'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K
+up to date, audited 505 packages in 1s
+[1G[0K⠋[1G[0K
+[1G[0K⠋[1G[0K52 packages are looking for funding
+[1G[0K⠋[1G[0K  run `npm fund` for details
+[1G[0K⠋[1G[0K
+[31m[1m16[22m[39m vulnerabilities (2 [1mlow[22m, 7 [33m[1mmoderate[22m[39m, 7 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+[1G[0K⠋[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm install && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m Unsupported engine {
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   package: [32m'idurar-erp-crm@4.1.0'[39m,
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   required: { node: [32m'20.9.0'[39m, npm: [32m'10.2.4'[39m },
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m   current: { node: [32m'v20.18.0'[39m, npm: [32m'10.8.0'[39m }
+[1mnpm[22m [33mwarn[39m [94mEBADENGINE[39m }
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K
+up to date, audited 385 packages in 756ms
+[1G[0K⠧[1G[0K
+[1G[0K⠧[1G[0K105 packages are looking for funding
+[1G[0K⠧[1G[0K  run `npm fund` for details
+[1G[0K⠧[1G[0K
+[31m[1m6[22m[39m vulnerabilities (3 [33m[1mmoderate[22m[39m, 3 [31m[1mhigh[22m[39m)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠧[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd backend && npm run setup && echo COMMAND_SUCCESS || echo COMMAND_FA ILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd backend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAIL URE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 setup
+> node src/setup/setup.js
+
+[1G[0K
+> idurar-erp-crm@4.1.0 dev
+> nodemon src/server.js --ignore public/
+
+[1G[0K[33m[nodemon] 3.0.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+👍 Admin created : Done!
+👍 Settings created : Done!
+👍 Taxes created : Done!
+👍 PaymentMode created : Done!
+🥳 Setup completed :Success!
+[1G[0K⠙[1G[0KCOMMAND_SUCCESS
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+bash-3.2$ Express running → On PORT : 8888
+cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAILURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$ cd frontend && npm run dev && echo COMMAND_SUCCESS || echo COMMAND_FAI LURE
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+cd /Users/ravirawat/Documents/Arrowai/codebolt-agents/idurar-erp-crm
+
+> idurar-erp-crm@4.1.0 dev
+> vite
+
+[1G[0K
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1;1H[0J
+  [32m[1mVITE[22m v5.4.8[39m  [2mready in [0m[1m129[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
